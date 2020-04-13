@@ -7,6 +7,13 @@
 
 <img align="right" width=175 src="buildroot/share/pixmaps/logo/marlin-250.png" />
 
+## For the Creatlity CR10S
+
+  - Compile with Arduino IDE
+  - Plug the [usbasp](https://www.fischl.de/usbasp/) to the JTAG pins on the motherboard (see CR10S_JTAG.jpg)
+  - Click Sketch -> Upload Using Programmer
+
+
 Additional documentation can be found at the [Marlin Home Page](http://marlinfw.org/).
 Please let us know if Marlin misbehaves in any way. Volunteers are standing by!
 
