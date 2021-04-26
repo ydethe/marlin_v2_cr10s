@@ -23,7 +23,9 @@ Marlin Firmware Official Website
     documentation. Contributions are always welcome!
 
 Configuration
-
+  - http://www.cr10.fr/le-guide-malin-de-marlin/
+    For CR10(S)
+    
   - https://github.com/MarlinFirmware/Configurations
     Example configurations for several printer models.
 
