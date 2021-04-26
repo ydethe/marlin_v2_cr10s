@@ -500,10 +500,10 @@
     #define DEFAULT_Kd_LIST { 114.00, 114.00 }
   #else
     // Stock CR-10 Hotend fan 100%
-    #define DEFAULT_Kp 17.42
+    #define DEFAULT_Kp  17.42
     #define DEFAULT_Ki 1.27
     #define DEFAULT_Kd 59.9
-    // M301 P30.87 I10 D97.98 
+    // M301 P17.42 I1.27 D59.9 
   #endif
 #endif // PIDTEMP
 
@@ -1246,7 +1246,7 @@
  * Normally G28 leaves leveling disabled on completion. Enable
  * this option to have G28 restore the prior leveling state.
  */
-//#define RESTORE_LEVELING_AFTER_G28
+#define RESTORE_LEVELING_AFTER_G28
 
 /**
  * Enable detailed logging of G28, G29, M48, etc.
