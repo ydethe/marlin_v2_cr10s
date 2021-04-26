@@ -25,6 +25,10 @@ Marlin Firmware Official Website
 Configuration
   - http://www.cr10.fr/le-guide-malin-de-marlin/
     For CR10(S)
+
+  - https://all3dp.com/2/bltouch-sensors-guide/
+    http://www.cr10.fr/installation-dun-autolevel-type-bltouch-cr10s/
+    For installing a BL Touch
     
   - https://github.com/MarlinFirmware/Configurations
     Example configurations for several printer models.
