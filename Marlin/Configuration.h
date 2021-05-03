@@ -500,7 +500,7 @@
     #define DEFAULT_Kd_LIST { 114.00, 114.00 }
   #else
     // Stock CR-10 Hotend fan 100%
-    #define DEFAULT_Kp  17.42
+    #define DEFAULT_Kp 17.42
     #define DEFAULT_Ki 1.27
     #define DEFAULT_Kd 59.9
     // M301 P17.42 I1.27 D59.9 
